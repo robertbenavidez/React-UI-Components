@@ -1,0 +1,8 @@
+.cal-display {
+    Width: 99%;
+    height: 75px;
+    text-align: right;
+    font-size: 60px;
+    background: black;
+    color: white;
+}
