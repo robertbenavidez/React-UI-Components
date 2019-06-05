@@ -1,0 +1,11 @@
+.button-container {
+    width: 75%;
+    display: flex;
+    flex-flow: row wrap;
+  }
+  
+  .button-container .button {
+    border: 1px solid;
+    width: 30%;
+  }
+

@@ -6,8 +6,7 @@ const App = () => {
   return (
     <div className="calculator-container">
       <CalculatorDisplay />
-        <div><NumberButton /></div>
-      
+      <NumberButton />
     </div> 
      
   );
